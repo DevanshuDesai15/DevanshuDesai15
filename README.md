@@ -1,6 +1,6 @@
-# How you Doin' 👉😁 
+# Hello there, I am Devanshu
 
-## A 3rd Year CS student:
+## An Undergrad 4th year CE student:
 
 - 🏛 Pursuing my BTech from CHARUSAT University
 - 🌱 I’m currently learning Python, Data Analysis
