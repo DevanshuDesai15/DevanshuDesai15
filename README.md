@@ -3,7 +3,7 @@
 ## An Undergrad 4th year CE student:
 
 - 🏛 Pursuing my BTech from CHARUSAT University
-- 🌱 I’m currently learning Python, Data Analysis
+- 🌱 Enthusiast about learning Python, Data Analysis
 - 🔬 Currently doing internship in ReactJs
 - 🎯 To persue MS in US and working in my dream company
 - ⚡ Fun fact I like to sing songs🎶 and love to play football⚽
