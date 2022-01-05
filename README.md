@@ -2,7 +2,8 @@
 
 
 
-## An Undergrad 4th year CE student:
+## An Undergrad 4th year CE student: 
+<img src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/code.gif" align="right" width="500" alt="banner that says My name is Devanshu Desai - software developer">
 
 - 🏛 Pursuing my BTech from CHARUSAT University
 - 🌱 Enthusiast about learning Python, Data Analysis
