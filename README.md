@@ -1,4 +1,5 @@
-<img src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/Black%20Technology%20Github%20Header.gif" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/Black%20Technology%20Github%20Header.gif" alt="banner that says My name is Devanshu Desai - software developer">
+
 
 
 ## An Undergrad 4th year CE student:
