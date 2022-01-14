@@ -13,12 +13,11 @@
 
 <h3 align="left">:handshake: Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCPjxPPsah7SyLh2avR8IPOQ/featured" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/devanshudesai_/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="![Uploading linkedin.png…]()
-" alt="linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/codebucks27" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCPjxPPsah7SyLh2avR8IPOQ/featured" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/yt.png" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/devanshudesai_/" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/insta.png" alt="Instagram" height="40" width="40" /></a>
+<a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/twitter.png" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/linkedin.png" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011660374058" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/fb.png" alt="Facebook" height="40" width="40" /></a>
 
 
 </p>
