@@ -16,7 +16,7 @@
   <a href="https://www.youtube.com/channel/UCPjxPPsah7SyLh2avR8IPOQ/featured" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/yt.png" alt="YouTube" height="30" width="40" /></a>
   <a href="https://www.instagram.com/devanshudesai_/" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/insta.png" alt="Instagram" height="40" width="40" /></a>
 <a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/twitter.png" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/linkedin.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/devanshudesai15/" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/linkedin.png" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011660374058" target="blank"><img align="center" src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/fb.png" alt="Facebook" height="40" width="40" /></a>
 
 
