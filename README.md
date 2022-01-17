@@ -18,6 +18,7 @@
 <a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/devanshudesai15/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011660374058" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="Facebook" height="40" width="40" /></a>
+  <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="Discord" height="40" width="40" /></a>
 
 
 </p>
