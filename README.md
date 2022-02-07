@@ -1,9 +1,8 @@
-<img src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/Black%20Technology%20Github%20Header.gif" alt="banner that says My name is Devanshu Desai - software developer">
-
+<img src="https://user-images.githubusercontent.com/46750877/152845669-0c992506-5593-4587-a013-8fa393a8f6ad.gif" alt="banner that says My name is Devanshu Desai - software developer">
 
 
 ## An Undergrad 4th year CE student: 
-<img src="https://github.com/DevanshuDesai15/DevanshuDesai15/blob/main/code.gif" align="right" width="500" alt="banner that says My name is Devanshu Desai - software developer">
+<img src="https://user-images.githubusercontent.com/46750877/152845925-5de74ac6-6d7d-47b1-8362-9726f314a0ee.gif" align="right" width="500" alt="banner that says My name is Devanshu Desai - software developer">
 
 - 🏛 Pursuing my BTech from CHARUSAT University
 - 🌱 Enthusiast about learning Python, Data Analysis
