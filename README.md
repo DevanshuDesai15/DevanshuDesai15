@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/46750877/152845669-0c992506-5593-4587-a013-8fa393a8f6ad.gif" alt="banner that says My name is Devanshu Desai - software developer">
 
 
-## Incoming Master's Student at Arizona State University <img src="https://user-images.githubusercontent.com/46750877/174723572-b452a969-740e-4af6-9f50-0da2c491a0ce.png" height="40" width="60" /> :
+## Grad Student at Arizona State University <img src="https://user-images.githubusercontent.com/46750877/174723572-b452a969-740e-4af6-9f50-0da2c491a0ce.png" height="40" width="60" /> :
 
 <img src="https://user-images.githubusercontent.com/46750877/152845925-5de74ac6-6d7d-47b1-8362-9726f314a0ee.gif" align="right" width="500" alt="banner that says My name is Devanshu Desai - software developer">
 
