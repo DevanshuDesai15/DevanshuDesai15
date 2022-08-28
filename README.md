@@ -14,11 +14,12 @@
 <h3 align="left">:handshake: Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCPjxPPsah7SyLh2avR8IPOQ/featured" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/devanshudesai_/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/devanshudesai_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46750877/187092116-a13cabee-2855-40d6-b5b9-9b4c8ae45548.png" alt="Instagram" height="40" width="40" /></a>
 <a href="https://twitter.com/DevanshuDesai4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/devanshudesai15/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100011660374058" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="Facebook" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011660374058" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46750877/187092164-6c32a66c-66c5-4269-af59-a3864dfa3b4b.png" alt="Facebook" height="40" width="40" /></a>
   <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="Discord" height="40" width="40" /></a>
+
 
 
 </p>
