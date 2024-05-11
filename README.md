@@ -5,8 +5,8 @@
 
 <img src="https://user-images.githubusercontent.com/46750877/152845925-5de74ac6-6d7d-47b1-8362-9726f314a0ee.gif" align="right" width="500" alt=" banner that says My name is Devanshu Desai - software developer">
 
-- 🏛 Pursuing my Master's in Software Engineering
-- 🌱 I am enthusiastic about developing web applications. 
+- 🏛 Completed my Master's in Software Engineering with a GPA of 4.0/4.0
+- 🌱 I am enthusiastic about developing full-stack applications. 
 - 🔬 Currently honing my coding and DSA skills
 - 🎯 To pursue MS in the US and work in my dream company
 - ⚡ Fun fact I like to sing🎶 and love to play football⚽
