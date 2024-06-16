@@ -8,7 +8,7 @@
 - 🏛 Completed my Master's in Software Engineering with a GPA of 4.0/4.0
 - 🌱 I am enthusiastic about developing full-stack applications. 
 - 🔬 Currently honing my coding and DSA skills
-- 🎯 To pursue MS in the US and work in my dream company
+- 🎯 To gain knowledge and stay persistent!
 - ⚡ Fun fact I like to sing🎶 and love to play football⚽
 
 <h3 align="left">:handshake: Connect with me:</h3>
